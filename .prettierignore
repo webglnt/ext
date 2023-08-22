@@ -7,3 +7,4 @@ website
 *.json
 *.yml
 *.md
+extensions/docs-examples
