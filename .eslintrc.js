@@ -14,9 +14,7 @@ module.exports = {
     Scratch: 'readonly',
     ScratchBlocks: 'readonly',
     ScratchExtensions: 'readonly',
-    scaffolding: 'readonly',
-    Blockly: 'readonly',
-    ScratchBlocks: 'readonly'
+    scaffolding: 'readonly'
   },
   rules: {
     'no-unused-vars': 'off',
